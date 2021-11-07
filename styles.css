@@ -158,7 +158,7 @@ nav {
 .about-p {
   text-align: left;
   font-size: 25px;
-  font-family: cursive;
+  font-family: sans-serif;
   font-weight: 600;
 }
 .about-img {
@@ -226,11 +226,11 @@ nav {
 }
 .text-area h3 {
   font-size: 24px;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 .text-area p {
   font-size: 24px;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 .percent-area {
@@ -294,7 +294,7 @@ nav {
 .tool-sub {
   text-align: left;
   margin: 0;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 /* Projects Section */
 .proj-container {
@@ -316,7 +316,7 @@ nav {
 .proj-desc {
   text-align: left;
   padding: 0 5%;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 /* Contact me Section */
 #cta {
@@ -329,7 +329,7 @@ nav {
 }
 .contacts {
   font-size: 24px;
-  font-family: cursive;
+  font-family: sans-serif;
   text-align: left;
   color: white;
 }
@@ -339,14 +339,14 @@ form {
 }
 label {
   font-size: 24px;
-  font-family: cursive;
+  font-family: sans-serif;
   color: white;
 }
 .txt-box {
   width: 90%;
   font-size: 16px;
   padding: 5px;
-  font-family: cursive;
+  font-family: sans-serif;
   border-radius: 10px;
   outline: none;
   border: 0;
@@ -375,7 +375,7 @@ label {
   margin-right: 10%;
   font-size: 15px;
   color: grey;
-  font-family: cursive;
+  font-family: sans-serif;
   margin-bottom: 0;
 }
 .contact-icon {
